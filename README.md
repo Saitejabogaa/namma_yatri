@@ -1,2 +1,4 @@
 # namma_yatri
-This is a mySQL and Power BI end to end Project. Showing you the business done in one day,  where the data have been taken from the Namma Yatri website. if any changes required in this project, feel free to message Thankyou.
+This is a complete project I worked on with SQL and Power BI. demonstrating the work completed in a day, using information gathered from the Namma Yatri website. the conversation rate, finished trips, searches, projections, and driver profits are displayed.
+
+Please communicate if there are any changes that need to be made to this project.
